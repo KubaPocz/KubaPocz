@@ -26,4 +26,10 @@ I'm currently working on exciting **game projects**, blending code, creativity, 
 ✅ Improve **3D modeling** and **animation**  
 ✅ Build and release my own **indie game**  
 
-💡 Always open to collaboration and cool game dev discussions! Feel free to reach out! 🚀  
+💡 Always open to collaboration and cool game dev discussions! Feel free to reach out! 🚀 
+
+<br>
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kuba-pocztowski-372659352/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:kuba.pocztowski99@gmail.com)
