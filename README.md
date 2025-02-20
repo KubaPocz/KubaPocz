@@ -31,5 +31,5 @@ I'm currently working on exciting **game projects**, blending code, creativity, 
 <br>
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kuba-pocztowski-372659352/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kuba-pocztowski/)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:kuba.pocztowski99@gmail.com)
