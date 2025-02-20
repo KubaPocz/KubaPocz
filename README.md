@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🚀 Welcome to My GitHub!
 
-<!--
-**KubaPocz/KubaPocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **KubaPocz**, a passionate **game developer in the making** 🎮.  
+I specialize in **Unity** and **C#**, bringing ideas to life through **game mechanics, AI, and immersive experiences**.  
+<br>
+## 🔹 About Me  
+- 🎮 **Game Development** – I love crafting interactive worlds in **Unity**  
+- 🏗️ **3D Modeling & Animation** – I create game assets with **Blender**  
+- 🎨 **Graphics & UI** – I design visuals and interfaces in **Photoshop**  
+- 🧠 **Learning & Experimenting** – Constantly improving my skills in **game design, optimization, and storytelling**  
 
-Here are some ideas to get you started:
+I'm currently working on exciting **game projects**, blending code, creativity, and a touch of madness! 🧪🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KubaPocz&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubaPocz&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KubaPocz&theme=dark)  
+
+<br>
+
+## 🎯 Current Goals  
+✅ Master **Unity** & **C#** for game development  
+✅ Improve **3D modeling** and **animation**  
+✅ Build and release my own **indie game**  
+
+💡 Always open to collaboration and cool game dev discussions! Feel free to reach out! 🚀  
