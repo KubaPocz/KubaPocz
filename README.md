@@ -1,6 +1,6 @@
 ## 🚀 Welcome to My GitHub!
 
-Hey there! I'm **KubaPocz**, a passionate **game developer in the making** 🎮.  
+Hey there! I'm **Kuba Pocztowski**, a passionate **game developer in the making** 🎮.  
 I specialize in **Unity** and **C#**, bringing ideas to life through **game mechanics, AI, and immersive experiences**.  
 <br>
 ## 🔹 About Me  
